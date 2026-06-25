@@ -1,0 +1,173 @@
+[
+ {
+  "name": "Shmackin' Taco",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Shmackin_Taco_Atlanta_GA.zip",
+  "rotation": "split",
+  "category": "food",
+  "gaps": "hours;reviews"
+ },
+ {
+  "name": "Allora",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Allora_Atlanta_GA.zip",
+  "rotation": "center",
+  "category": "food",
+  "gaps": "reviews"
+ },
+ {
+  "name": "Simmer Cafe",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Simmer_Cafe_Atlanta_GA.zip",
+  "rotation": "editorial",
+  "category": "food",
+  "gaps": "\u2014"
+ },
+ {
+  "name": "Sheba Lounge",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Sheba_Lounge_Atlanta_GA.zip",
+  "rotation": "rings",
+  "category": "food",
+  "gaps": "reviews"
+ },
+ {
+  "name": "American Wings & Seafood",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "American_Wings_Seafood_Atlanta_GA.zip",
+  "rotation": "split",
+  "category": "food",
+  "gaps": "reviews"
+ },
+ {
+  "name": "Lakewood Diner",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Lakewood_Diner_Atlanta_GA.zip",
+  "rotation": "center",
+  "category": "food",
+  "gaps": "reviews"
+ },
+ {
+  "name": "Ameen Fish & Wings",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Ameen_Fish_Wings_Atlanta_GA.zip",
+  "rotation": "editorial",
+  "category": "food",
+  "gaps": "reviews"
+ },
+ {
+  "name": "Michael's Cafe",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Michael_s_Cafe_Atlanta_GA.zip",
+  "rotation": "rings",
+  "category": "food",
+  "gaps": "hours;reviews"
+ },
+ {
+  "name": "Bon Apetit Bistro",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Bon_Apetit_Bistro_Atlanta_GA.zip",
+  "rotation": "split",
+  "category": "food",
+  "gaps": "hours;reviews"
+ },
+ {
+  "name": "J.A.T.C Cuisine ATL",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "J_A_T_C_Cuisine_ATL_Atlanta_GA.zip",
+  "rotation": "center",
+  "category": "food",
+  "gaps": "reviews"
+ },
+ {
+  "name": "Donnie's Country Cookin'",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Donnie_s_Country_Cookin_Atlanta_GA.zip",
+  "rotation": "editorial",
+  "category": "food",
+  "gaps": "reviews"
+ },
+ {
+  "name": "Parkway Cafe",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Parkway_Cafe_Atlanta_GA.zip",
+  "rotation": "rings",
+  "category": "food",
+  "gaps": "reviews"
+ },
+ {
+  "name": "Sleezy K's",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Sleezy_K_s_Atlanta_GA.zip",
+  "rotation": "split",
+  "category": "food",
+  "gaps": "hours;reviews"
+ },
+ {
+  "name": "Airport Cafe",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Airport_Cafe_Atlanta_GA.zip",
+  "rotation": "center",
+  "category": "food",
+  "gaps": "hours;reviews;catalog"
+ },
+ {
+  "name": "Asian Chao",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Asian_Chao_Atlanta_GA.zip",
+  "rotation": "editorial",
+  "category": "food",
+  "gaps": "hours;reviews;catalog"
+ },
+ {
+  "name": "Links Grill",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Links_Grill_Atlanta_GA.zip",
+  "rotation": "rings",
+  "category": "food",
+  "gaps": "hours;reviews;catalog"
+ },
+ {
+  "name": "China Express",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "China_Express_Atlanta_GA.zip",
+  "rotation": "split",
+  "category": "food",
+  "gaps": "phone;hours;reviews;catalog"
+ },
+ {
+  "name": "The Original Sleepy",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "The_Original_Sleepy_Atlanta_GA.zip",
+  "rotation": "center",
+  "category": "food",
+  "gaps": "phone;hours;reviews;catalog"
+ },
+ {
+  "name": "Thetailored Taste Catering",
+  "city": "Atlanta",
+  "state": "GA",
+  "file": "Thetailored_Taste_Catering_Atlanta_GA.zip",
+  "rotation": "editorial",
+  "category": "food",
+  "gaps": "hours;reviews"
+ }
+]
