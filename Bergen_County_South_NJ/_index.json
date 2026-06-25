@@ -1,0 +1,442 @@
+[
+ {
+  "name": "Yee Kee Chinese Restaurant",
+  "city": "Paterson",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "gaps": "full",
+  "file": "Yee_Kee_Chinese_Restaurant_Paterson_NJ.zip"
+ },
+ {
+  "name": "Adriana's Gourmet Pizzeria",
+  "city": "Yonkers",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "no hours",
+  "file": "Adriana_s_Gourmet_Pizzeria_Yonkers_NY.zip"
+ },
+ {
+  "name": "El Primo Bagel and Taqueria",
+  "city": "Cliffside Park",
+  "state": "NJ",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "El_Primo_Bagel_and_Taqueria_Cliffside_Park_NJ.zip"
+ },
+ {
+  "name": "Bardonia Oriental",
+  "city": "Bardonia",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Bardonia_Oriental_Bardonia_NY.zip"
+ },
+ {
+  "name": "Burana Pizzeria Cubana",
+  "city": "West New York",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "Burana_Pizzeria_Cubana_West_New_York_NJ.zip"
+ },
+ {
+  "name": "Capis Pizza",
+  "city": "Yonkers",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "Capis_Pizza_Yonkers_NY.zip"
+ },
+ {
+  "name": "Charlie Blood's",
+  "city": "Garfield",
+  "state": "NJ",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Charlie_Blood_s_Garfield_NJ.zip"
+ },
+ {
+  "name": "D.R. Cafe",
+  "city": "Yonkers",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "D_R_Cafe_Yonkers_NY.zip"
+ },
+ {
+  "name": "Enza's Restaurant & Pizzeria",
+  "city": "Hawthorne",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Enza_s_Restaurant_Pizzeria_Hawthorne_NJ.zip"
+ },
+ {
+  "name": "Halal Grillo",
+  "city": "Carlstadt",
+  "state": "NJ",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "Halal_Grillo_Carlstadt_NJ.zip"
+ },
+ {
+  "name": "Happy Garden",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Happy_Garden_Bronx_NY.zip"
+ },
+ {
+  "name": "Hawaii Express",
+  "city": "Passaic",
+  "state": "NJ",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "Hawaii_Express_Passaic_NJ.zip"
+ },
+ {
+  "name": "iPizzaNY",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "iPizzaNY_Bronx_NY.zip"
+ },
+ {
+  "name": "Jia Foo",
+  "city": "Spring Valley",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "Jia_Foo_Spring_Valley_NY.zip"
+ },
+ {
+  "name": "Jumbo Garden",
+  "city": "Moonachie",
+  "state": "NJ",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Jumbo_Garden_Moonachie_NJ.zip"
+ },
+ {
+  "name": "Jun Lung",
+  "city": "North Bergen",
+  "state": "NJ",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Jun_Lung_North_Bergen_NJ.zip"
+ },
+ {
+  "name": "Juniors Seafood Restaurant",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "Juniors_Seafood_Restaurant_Bronx_NY.zip"
+ },
+ {
+  "name": "Kapampangan's Best",
+  "city": "Bergenfield",
+  "state": "NJ",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Kapampangan_s_Best_Bergenfield_NJ.zip"
+ },
+ {
+  "name": "La Victoria Restaurant",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "La_Victoria_Restaurant_New_York_NY.zip"
+ },
+ {
+  "name": "May May Restaurant",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "no hours",
+  "file": "May_May_Restaurant_Bronx_NY.zip"
+ },
+ {
+  "name": "New Ivoire",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "New_Ivoire_New_York_NY.zip"
+ },
+ {
+  "name": "Prima Pizza",
+  "city": "Paterson",
+  "state": "NJ",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "Prima_Pizza_Paterson_NJ.zip"
+ },
+ {
+  "name": "Primavera Pizzeria",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Primavera_Pizzeria_Bronx_NY.zip"
+ },
+ {
+  "name": "Punto De Sabor",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Punto_De_Sabor_New_York_NY.zip"
+ },
+ {
+  "name": "Richie's Pizza Shop",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Richie_s_Pizza_Shop_Bronx_NY.zip"
+ },
+ {
+  "name": "Sauce Boss Wings",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Sauce_Boss_Wings_Bronx_NY.zip"
+ },
+ {
+  "name": "Scaramella's Restaurant",
+  "city": "Dobbs Ferry",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "no hours",
+  "file": "Scaramella_s_Restaurant_Dobbs_Ferry_NY.zip"
+ },
+ {
+  "name": "Spring Garden",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "no hours",
+  "file": "Spring_Garden_Bronx_NY.zip"
+ },
+ {
+  "name": "The Parrot Restaurant",
+  "city": "Yonkers",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "The_Parrot_Restaurant_Yonkers_NY.zip"
+ },
+ {
+  "name": "Tropicana Restaurant",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Tropicana_Restaurant_Bronx_NY.zip"
+ },
+ {
+  "name": "Vale's Kafe & Kitchen",
+  "city": "Union City",
+  "state": "NJ",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "gaps": "full",
+  "file": "Vale_s_Kafe_Kitchen_Union_City_NJ.zip"
+ },
+ {
+  "name": "GOAT Baseball Pies",
+  "city": "Secaucus",
+  "state": "NJ",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "full",
+  "file": "GOAT_Baseball_Pies_Secaucus_NJ.zip"
+ },
+ {
+  "name": "AFC III",
+  "city": "Wayne",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "no hours;sparse",
+  "file": "AFC_III_Wayne_NJ.zip"
+ },
+ {
+  "name": "Barbershop/Unisex",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "no hours;sparse",
+  "file": "Barbershop_Unisex_Bronx_NY.zip"
+ },
+ {
+  "name": "Legacy Records",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "no hours;sparse",
+  "file": "Legacy_Records_New_York_NY.zip"
+ },
+ {
+  "name": "Fantasy Bar & Restaurant",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "gaps": "no hours;sparse",
+  "file": "Fantasy_Bar_Restaurant_Bronx_NY.zip"
+ },
+ {
+  "name": "'Cesca",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "gaps": "permanently closed",
+  "file": "Cesca_New_York_NY.zip"
+ },
+ {
+  "name": "Mike's Pizza & Pasta",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "gaps": "permanently closed",
+  "file": "Mike_s_Pizza_Pasta_Bronx_NY.zip"
+ },
+ {
+  "name": "Native Restaurant",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "gaps": "permanently closed at this location",
+  "file": "Native_Restaurant_New_York_NY.zip"
+ },
+ {
+  "name": "Brian Noodles",
+  "city": "Fort Lee",
+  "state": "NJ",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "gaps": "not found / likely closed",
+  "file": "Brian_Noodles_Fort_Lee_NJ.zip"
+ },
+ {
+  "name": "Taco Bell",
+  "city": "West Nyack",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "gaps": "national chain \u2014 has its own site",
+  "file": "Taco_Bell_West_Nyack_NY.zip"
+ },
+ {
+  "name": "Emmy Squared Pizza",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "gaps": "national chain \u2014 has its own site",
+  "file": "Emmy_Squared_Pizza_New_York_NY.zip"
+ },
+ {
+  "name": "Crown Fried Chicken",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "gaps": "chain \u2014 has its own site",
+  "file": "Crown_Fried_Chicken_Bronx_NY.zip"
+ },
+ {
+  "name": "Kennedy Chicken",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "gaps": "chain \u2014 has its own site",
+  "file": "Kennedy_Chicken_New_York_NY.zip"
+ }
+]

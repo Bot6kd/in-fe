@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Pho Saigon",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "file": "Pho_Saigon_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Authentic Ecuadorian",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Authentic_Ecuadorian_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Brasa Pub & Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Brasa_Pub_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Brazilian Sport Club",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Brazilian_Sport_Club_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Capital Pizza",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Capital_Pizza_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Cater2U by Tiffy",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Cater2U_by_Tiffy_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Citadelle Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Citadelle_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "D'Italia Pizza & Pasta",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "D_Italia_Pizza_Pasta_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Delights North Caribbean",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Delights_North_Caribbean_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "El Patio Dominican",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "El_Patio_Dominican_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "El Tenampa Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "El_Tenampa_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Family Spice Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Family_Spice_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Funchal Americana",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Funchal_Americana_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Garden Soul Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Garden_Soul_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "La Arepa De Do\u00f1a C",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "La_Arepa_De_Do_a_C_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Las Brumas Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Las_Brumas_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Latino Bistro Bar",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Latino_Bistro_Bar_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Leo's Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Leo_s_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Mama's Patties",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Mama_s_Patties_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Mexico Chapin Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Mexico_Chapin_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Mi Sabor",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Mi_Sabor_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Mytown Halal Market",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Mytown_Halal_Market_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "PizzaMex",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "PizzaMex_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Rocky's Chicken",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Rocky_s_Chicken_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "San Jiang",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "San_Jiang_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Series 15 Deli",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Series_15_Deli_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Terra Brasilis Restaurant",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Terra_Brasilis_Restaurant_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Two Brothers Pizza",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Two_Brothers_Pizza_Bridgeport_CT.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Toscano Pizzeria",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Toscano_Pizzeria_Bridgeport_CT.zip",
+  "gaps": "permanently closed (Southport location open)"
+ },
+ {
+  "name": "The Original Vazzy's",
+  "city": "Bridgeport",
+  "state": "CT",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "The_Original_Vazzy_s_Bridgeport_CT.zip",
+  "gaps": "local chain \u2014 has its own website"
+ }
+]

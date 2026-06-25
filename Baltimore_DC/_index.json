@@ -1,0 +1,242 @@
+[
+ {
+  "name": "America's Best Wings",
+  "category": "food",
+  "rotation": "split",
+  "phone": "(410) 764-9464",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Brass Hen",
+  "category": "food",
+  "rotation": "center",
+  "phone": "(410) 282-4791",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Busy Bee",
+  "category": "food",
+  "rotation": "editorial",
+  "phone": "(410) 947-6337",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Chef Paolino Cafe",
+  "category": "food",
+  "rotation": "rings",
+  "phone": "(410) 837-6909",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Cibo Caldo",
+  "category": "food",
+  "rotation": "split",
+  "phone": "(410) 444-3334",
+  "status": "ENRICHED \u2713",
+  "gaps": "no rating"
+ },
+ {
+  "name": "Festival Delights",
+  "category": "food",
+  "rotation": "center",
+  "phone": "(443) 847-4831",
+  "status": "ENRICHED \u2713",
+  "gaps": "no rating"
+ },
+ {
+  "name": "Halal Mediterranean",
+  "category": "food",
+  "rotation": "editorial",
+  "phone": "\u2014",
+  "status": "ENRICHED \u2713",
+  "gaps": "no phone;no rating"
+ },
+ {
+  "name": "Hibiscus Restaurant",
+  "category": "food",
+  "rotation": "rings",
+  "phone": "(443) 478-8817",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Kyodai Express",
+  "category": "food",
+  "rotation": "split",
+  "phone": "(410) 801-8941",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "LEAFWALKcoffee",
+  "category": "food",
+  "rotation": "center",
+  "phone": "(443) 600-9727",
+  "status": "ENRICHED \u2713",
+  "gaps": "no hours;no rating"
+ },
+ {
+  "name": "Mamma Lucia Pizza",
+  "category": "food",
+  "rotation": "editorial",
+  "phone": "(410) 523-2284",
+  "status": "ENRICHED \u2713",
+  "gaps": "no rating"
+ },
+ {
+  "name": "Mi Comalito",
+  "category": "food",
+  "rotation": "rings",
+  "phone": "(410) 837-6033",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Ndolo's Cuisine",
+  "category": "food",
+  "rotation": "split",
+  "phone": "(443) 868-6466",
+  "status": "ENRICHED \u2713",
+  "gaps": "no rating"
+ },
+ {
+  "name": "Norte\u00f1o Bar & Grill",
+  "category": "food",
+  "rotation": "center",
+  "phone": "(443) 881-5952",
+  "status": "ENRICHED \u2713",
+  "gaps": "no hours"
+ },
+ {
+  "name": "Pasta Glory",
+  "category": "food",
+  "rotation": "editorial",
+  "phone": "\u2014",
+  "status": "ENRICHED \u2713",
+  "gaps": "no phone;no rating"
+ },
+ {
+  "name": "Peruvian Express",
+  "category": "food",
+  "rotation": "rings",
+  "phone": "(443) 438-0577",
+  "status": "ENRICHED \u2713",
+  "gaps": "no rating"
+ },
+ {
+  "name": "Piccola Italia",
+  "category": "food",
+  "rotation": "split",
+  "phone": "\u2014",
+  "status": "ENRICHED \u2713",
+  "gaps": "no phone;no rating"
+ },
+ {
+  "name": "Salud Sports Bar & Restaurante",
+  "category": "food",
+  "rotation": "center",
+  "phone": "(443) 759-6902",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Seven4Eight Restaurant & Lounge",
+  "category": "food",
+  "rotation": "editorial",
+  "phone": "(443) 316-8526",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Shanghai Carry Out",
+  "category": "food",
+  "rotation": "rings",
+  "phone": "(410) 646-1520",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Stone Tavern",
+  "category": "food",
+  "rotation": "split",
+  "phone": "(410) 889-8268",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Sushi Do",
+  "category": "food",
+  "rotation": "center",
+  "phone": "\u2014",
+  "status": "ENRICHED \u2713",
+  "gaps": "no phone;no hours"
+ },
+ {
+  "name": "That Dude & His Food",
+  "category": "food",
+  "rotation": "editorial",
+  "phone": "(701) 713-5433",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "The Buttonwood",
+  "category": "food",
+  "rotation": "rings",
+  "phone": "(443) 339-3192",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Two Guys Pizza",
+  "category": "food",
+  "rotation": "split",
+  "phone": "(443) 963-1802",
+  "status": "ENRICHED \u2713",
+  "gaps": "full"
+ },
+ {
+  "name": "Yalla Yummies",
+  "category": "food",
+  "rotation": "center",
+  "phone": "(443) 449-5301",
+  "status": "ENRICHED \u2713",
+  "gaps": "no rating"
+ },
+ {
+  "name": "Country Kitchen",
+  "category": "\u2014",
+  "rotation": "\u2014",
+  "phone": "\u2014",
+  "status": "CLOSED \u2014 skipped",
+  "gaps": "permanently closed"
+ },
+ {
+  "name": "Jong Kak",
+  "category": "\u2014",
+  "rotation": "\u2014",
+  "phone": "\u2014",
+  "status": "CLOSED \u2014 skipped",
+  "gaps": "permanently closed"
+ },
+ {
+  "name": "Maria's Subs",
+  "category": "\u2014",
+  "rotation": "\u2014",
+  "phone": "\u2014",
+  "status": "CLOSED \u2014 skipped",
+  "gaps": "permanently closed"
+ },
+ {
+  "name": "Mr Sausage",
+  "category": "\u2014",
+  "rotation": "\u2014",
+  "phone": "\u2014",
+  "status": "CLOSED \u2014 skipped",
+  "gaps": "permanently closed"
+ }
+]

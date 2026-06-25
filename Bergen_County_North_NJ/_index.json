@@ -1,0 +1,191 @@
+[
+ {
+  "name": "503 Restaurant",
+  "city": "Spring Valley",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "gaps": "no hours",
+  "file": "503_Restaurant_Spring_Valley_NY.zip"
+ },
+ {
+  "name": "Antony's Restaurant",
+  "city": "Spring Valley",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "gaps": "no hours;sparse",
+  "file": "Antony_s_Restaurant_Spring_Valley_NY.zip"
+ },
+ {
+  "name": "Au Bon Accueil",
+  "city": "Spring Valley",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "Au_Bon_Accueil_Spring_Valley_NY.zip"
+ },
+ {
+  "name": "Dom ToGo",
+  "city": "Nanuet",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "Dom_ToGo_Nanuet_NY.zip"
+ },
+ {
+  "name": "Elias Pizza & Restaurant",
+  "city": "Spring Valley",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "Elias_Pizza_Restaurant_Spring_Valley_NY.zip"
+ },
+ {
+  "name": "Gi's Restaurant",
+  "city": "Chestnut Ridge",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "Gi_s_Restaurant_Chestnut_Ridge_NY.zip"
+ },
+ {
+  "name": "JJ's Crabs Cuisine Lakay",
+  "city": "Spring Valley",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "JJ_s_Crabs_Cuisine_Lakay_Spring_Valley_NY.zip"
+ },
+ {
+  "name": "La Chata Restaurant",
+  "city": "Hawthorne",
+  "state": "NJ",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "La_Chata_Restaurant_Hawthorne_NJ.zip"
+ },
+ {
+  "name": "La Finca Restaurante",
+  "city": "Paterson",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "La_Finca_Restaurante_Paterson_NJ.zip"
+ },
+ {
+  "name": "Old Country Bakery",
+  "city": "Spring Valley",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "Old_Country_Bakery_Spring_Valley_NY.zip"
+ },
+ {
+  "name": "Tillo's Place",
+  "city": "Midland Park",
+  "state": "NJ",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "Tillo_s_Place_Midland_Park_NJ.zip"
+ },
+ {
+  "name": "Triple Luncheonette",
+  "city": "Paterson",
+  "state": "NJ",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "Triple_Luncheonette_Paterson_NJ.zip"
+ },
+ {
+  "name": "Zeidy's Pizza",
+  "city": "Monsey",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "gaps": "full",
+  "file": "Zeidy_s_Pizza_Monsey_NY.zip"
+ },
+ {
+  "name": "Neiman's Kosher Fish",
+  "city": "Spring Valley",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "gaps": "no hours;sparse;no reviews",
+  "file": "Neiman_s_Kosher_Fish_Spring_Valley_NY.zip"
+ },
+ {
+  "name": "Mangia Restaurant",
+  "city": "Nanuet",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "gaps": "no hours;sparse;no reviews",
+  "file": "Mangia_Restaurant_Nanuet_NY.zip"
+ },
+ {
+  "name": "Sushi & Steak",
+  "city": "Monsey",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "gaps": "no hours;sparse;no reviews",
+  "file": "Sushi_Steak_Monsey_NY.zip"
+ },
+ {
+  "name": "That Supper Club",
+  "city": "Paterson",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "gaps": "no hours;sparse;no reviews",
+  "file": "That_Supper_Club_Paterson_NJ.zip"
+ },
+ {
+  "name": "Hilltop Deli & Pizza",
+  "city": "New City",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "gaps": "permanently closed",
+  "file": "Hilltop_Deli_Pizza_New_City_NY.zip"
+ },
+ {
+  "name": "Red Apple",
+  "city": "Oradell",
+  "state": "NJ",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "gaps": "permanently closed",
+  "file": "Red_Apple_Oradell_NJ.zip"
+ },
+ {
+  "name": "Salt Pepper Ketchup",
+  "city": "Hawthorne",
+  "state": "NJ",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "gaps": "temporarily closed",
+  "file": "Salt_Pepper_Ketchup_Hawthorne_NJ.zip"
+ },
+ {
+  "name": "SUBARU",
+  "city": "Tappan",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "gaps": "national auto dealer \u2014 has its own site",
+  "file": "SUBARU_Tappan_NY.zip"
+ }
+]

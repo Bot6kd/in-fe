@@ -1,0 +1,191 @@
+[
+ {
+  "name": "Arepa Fresca by Eat",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "cinematic",
+  "file": "Arepa_Fresca_by_Eat_Denver_CO.zip"
+ },
+ {
+  "name": "Bar Red",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "editorial",
+  "file": "Bar_Red_Denver_CO.zip"
+ },
+ {
+  "name": "Benny's Restaurant",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "bold",
+  "file": "Benny_s_Restaurant_Denver_CO.zip"
+ },
+ {
+  "name": "Carl's Pizza",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "refined",
+  "file": "Carl_s_Pizza_Denver_CO.zip"
+ },
+ {
+  "name": "DBC Eats Food Truck",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "cinematic",
+  "file": "DBC_Eats_Food_Truck_Denver_CO.zip"
+ },
+ {
+  "name": "El Puerto De Veracru",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "editorial",
+  "file": "El_Puerto_De_Veracru_Denver_CO.zip"
+ },
+ {
+  "name": "Gyroz",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "bold",
+  "file": "Gyroz_Denver_CO.zip"
+ },
+ {
+  "name": "INTUEAT - Denver's",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "refined",
+  "file": "INTUEAT_Denver_s_Denver_CO.zip"
+ },
+ {
+  "name": "JLR Burritos",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "cinematic",
+  "file": "JLR_Burritos_Denver_CO.zip"
+ },
+ {
+  "name": "King Dumpling 2",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "editorial",
+  "file": "King_Dumpling_2_Denver_CO.zip"
+ },
+ {
+  "name": "La Unica Birria De Res",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "bold",
+  "file": "La_Unica_Birria_De_Res_Denver_CO.zip"
+ },
+ {
+  "name": "Los Dados Authentic",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "refined",
+  "file": "Los_Dados_Authentic_Denver_CO.zip"
+ },
+ {
+  "name": "Mamacitas",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "cinematic",
+  "file": "Mamacitas_Denver_CO.zip"
+ },
+ {
+  "name": "Mugi Ramen and Poke",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "editorial",
+  "file": "Mugi_Ramen_and_Poke_Denver_CO.zip"
+ },
+ {
+  "name": "Omar Khayyam",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "bold",
+  "file": "Omar_Khayyam_Denver_CO.zip"
+ },
+ {
+  "name": "Pacos Tacos",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "refined",
+  "file": "Pacos_Tacos_Denver_CO.zip"
+ },
+ {
+  "name": "Pita Grill , Hookah Lo",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "cinematic",
+  "file": "Pita_Grill_Hookah_Lo_Denver_CO.zip"
+ },
+ {
+  "name": "Pudge Bros Pizza",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "editorial",
+  "file": "Pudge_Bros_Pizza_Denver_CO.zip"
+ },
+ {
+  "name": "Sage Restaurant Gro",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "bold",
+  "file": "Sage_Restaurant_Gro_Denver_CO.zip"
+ },
+ {
+  "name": "Salt & Grinder",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "refined",
+  "file": "Salt_Grinder_Denver_CO.zip"
+ },
+ {
+  "name": "Sao dem lounge",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "cinematic",
+  "file": "Sao_dem_lounge_Denver_CO.zip"
+ },
+ {
+  "name": "Tacos El Picacho",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "editorial",
+  "file": "Tacos_El_Picacho_Denver_CO.zip"
+ },
+ {
+  "name": "Taquitos Jalisco",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "bold",
+  "file": "Taquitos_Jalisco_Denver_CO.zip"
+ },
+ {
+  "name": "The Bagel Deli",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "refined",
+  "file": "The_Bagel_Deli_Denver_CO.zip"
+ },
+ {
+  "name": "Tortas A Toda Madre",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "cinematic",
+  "file": "Tortas_A_Toda_Madre_Denver_CO.zip"
+ },
+ {
+  "name": "Two Fisted Mario's P",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "editorial",
+  "file": "Two_Fisted_Mario_s_P_Denver_CO.zip"
+ },
+ {
+  "name": "Wash Park Grille",
+  "city": "Denver",
+  "state": "CO",
+  "rotation": "bold",
+  "file": "Wash_Park_Grille_Denver_CO.zip"
+ }
+]

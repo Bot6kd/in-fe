@@ -1,0 +1,177 @@
+[
+ {
+  "name": "#1 Chicken Rice & S",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "1_Chicken_Rice_S_Houston_TX.zip"
+ },
+ {
+  "name": "Alief African Kitchen",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Alief_African_Kitchen_Houston_TX.zip"
+ },
+ {
+  "name": "Aroma Pizza Cafe",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Aroma_Pizza_Cafe_Houston_TX.zip"
+ },
+ {
+  "name": "Barakah Asian Cafe",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Barakah_Asian_Cafe_Houston_TX.zip"
+ },
+ {
+  "name": "Baytown Seafood",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Baytown_Seafood_Houston_TX.zip"
+ },
+ {
+  "name": "CARNIVAL EATZ",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "CARNIVAL_EATZ_Houston_TX.zip"
+ },
+ {
+  "name": "Chang's",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Chang_s_Houston_TX.zip"
+ },
+ {
+  "name": "El Rey de las Tortas",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "El_Rey_de_las_Tortas_Houston_TX.zip"
+ },
+ {
+  "name": "Frank's Grill",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Frank_s_Grill_Houston_TX.zip"
+ },
+ {
+  "name": "Genji",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Genji_Houston_TX.zip"
+ },
+ {
+  "name": "Loz Lokoz Takoz",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Loz_Lokoz_Takoz_Houston_TX.zip"
+ },
+ {
+  "name": "Maque Pizza",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Maque_Pizza_Houston_TX.zip"
+ },
+ {
+  "name": "Marco Taqueria",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Marco_Taqueria_Houston_TX.zip"
+ },
+ {
+  "name": "Margaritas To-Go",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Margaritas_To_Go_Houston_TX.zip"
+ },
+ {
+  "name": "Mayaztecas Mexican",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Mayaztecas_Mexican_Houston_TX.zip"
+ },
+ {
+  "name": "Monroe Taqueria",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Monroe_Taqueria_Houston_TX.zip"
+ },
+ {
+  "name": "Myron's Community",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Myron_s_Community_Houston_TX.zip"
+ },
+ {
+  "name": "Pho Dalat",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Pho_Dalat_Houston_TX.zip"
+ },
+ {
+  "name": "Real Deal",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Real_Deal_Houston_TX.zip"
+ },
+ {
+  "name": "Saito & Pho",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Saito_Pho_Houston_TX.zip"
+ },
+ {
+  "name": "Tacos de Amor-Didas",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Tacos_de_Amor_Didas_Houston_TX.zip"
+ },
+ {
+  "name": "tastEride",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "tastEride_Houston_TX.zip"
+ },
+ {
+  "name": "tastEride2",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "tastEride2_Houston_TX.zip"
+ },
+ {
+  "name": "Tequila 45 mexican r",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Tequila_45_mexican_r_Houston_TX.zip"
+ },
+ {
+  "name": "Westchase Bar & Grill",
+  "city": "Houston",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Westchase_Bar_Grill_Houston_TX.zip"
+ }
+]

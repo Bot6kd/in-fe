@@ -1,0 +1,114 @@
+[
+ {
+  "name": "Aroma India (Cuisine",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "cinematic",
+  "file": "Aroma_India_Cuisine_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Choon Burritos",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "editorial",
+  "file": "Choon_Burritos_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Filiberto's Mexican F",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "bold",
+  "file": "Filiberto_s_Mexican_F_Phoenix_AZ.zip"
+ },
+ {
+  "name": "KWAN & WOK CHIN",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "refined",
+  "file": "KWAN_WOK_CHIN_Phoenix_AZ.zip"
+ },
+ {
+  "name": "La Consentida Resta",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "cinematic",
+  "file": "La_Consentida_Resta_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Mariscos El Tambor",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "editorial",
+  "file": "Mariscos_El_Tambor_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Maskadores Taco Sh",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "bold",
+  "file": "Maskadores_Taco_Sh_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Mr. Wong",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "refined",
+  "file": "Mr_Wong_Phoenix_AZ.zip"
+ },
+ {
+  "name": "One Kitchen",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "cinematic",
+  "file": "One_Kitchen_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Oreo's Bistro / Frien",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "editorial",
+  "file": "Oreo_s_Bistro_Frien_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Ramos Golden Cafe",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "bold",
+  "file": "Ramos_Golden_Cafe_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Raspados Guerrero",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "refined",
+  "file": "Raspados_Guerrero_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Roma Cucina",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "cinematic",
+  "file": "Roma_Cucina_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Silva's Back of House",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "editorial",
+  "file": "Silva_s_Back_of_House_Phoenix_AZ.zip"
+ },
+ {
+  "name": "Speedy's Fish & Chips",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "bold",
+  "file": "Speedy_s_Fish_Chips_Phoenix_AZ.zip"
+ },
+ {
+  "name": "The Taco Spot - Chri",
+  "city": "Phoenix",
+  "state": "AZ",
+  "rotation": "refined",
+  "file": "The_Taco_Spot_Chri_Phoenix_AZ.zip"
+ }
+]

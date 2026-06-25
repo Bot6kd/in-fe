@@ -1,0 +1,192 @@
+[
+ {
+  "name": "Coconut Palm Bar & Grill",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "file": "Coconut_Palm_Bar_Grill_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Cosmo's",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Cosmo_s_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Lulu Dutch Pot Restaurant",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Lulu_Dutch_Pot_Restaurant_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Papi Lounge",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Papi_Lounge_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "AMERY Deli Cafe",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "AMERY_Deli_Cafe_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "D'Giovanis Big Pizza",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "D_Giovanis_Big_Pizza_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Edison's Restaurant",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Edison_s_Restaurant_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Malina's Kitchen",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Malina_s_Kitchen_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Sante Yallah African Restaurant",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Sante_Yallah_African_Restaurant_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Ce.DE.AO Grill African Food",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Ce_DE_AO_Grill_African_Food_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Bronx NY Pizza",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Bronx_NY_Pizza_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Fresh Smoothies Cafe",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Fresh_Smoothies_Cafe_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Tenares Restaurant",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Tenares_Restaurant_Bronx_NY.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Lobster Box",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Lobster_Box_Bronx_NY.zip",
+  "gaps": "permanently closed"
+ },
+ {
+  "name": "Sorrento's Pizzeria",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Sorrento_s_Pizzeria_Bronx_NY.zip",
+  "gaps": "permanently closed"
+ },
+ {
+  "name": "Kingsbridge Pizza",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Kingsbridge_Pizza_Bronx_NY.zip",
+  "gaps": "permanently closed"
+ },
+ {
+  "name": "May May",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "May_May_Bronx_NY.zip",
+  "gaps": "already built under Bergen County South"
+ },
+ {
+  "name": "Primavera Pizzeria",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Primavera_Pizzeria_Bronx_NY.zip",
+  "gaps": "already built under Bergen County South"
+ },
+ {
+  "name": "Condoms For Rent",
+  "city": "Bronx",
+  "state": "NY",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Condoms_For_Rent_Bronx_NY.zip",
+  "gaps": "novelty shop, not a restaurant"
+ }
+]

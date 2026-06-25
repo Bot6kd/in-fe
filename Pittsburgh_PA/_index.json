@@ -1,0 +1,205 @@
+[
+ {
+  "name": "Antoon's Pizza",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Antoon_s_Pizza_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Belle Note",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Belle_Note_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Boca Loca Southern",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Boca_Loca_Southern_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "E Town Bar & Grill",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "E_Town_Bar_Grill_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "East Liberty Lounge",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "East_Liberty_Lounge_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Edgar's Best Tacos",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Edgar_s_Best_Tacos_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Enigma Hookah Cafe",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Enigma_Hookah_Cafe_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Frances",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Frances_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Garden Grille & Bar -",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Garden_Grille_Bar_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Hibachi Lou Food Tr",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Hibachi_Lou_Food_Tr_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Hunan Express",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Hunan_Express_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "J & J's Family Resta",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "J_J_s_Family_Resta_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Jerry's Market & Piz",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Jerry_s_Market_Piz_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Joe Cestone's Pizzeria",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Joe_Cestone_s_Pizzeria_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Koreyinz Bubble Tea",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Koreyinz_Bubble_Tea_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "lucca restaurant",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "lucca_restaurant_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Lucy's Banh Mi",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Lucy_s_Banh_Mi_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Momma Gayle's Soul",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Momma_Gayle_s_Soul_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Moonlight Express S",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Moonlight_Express_S_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Mr Friez",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Mr_Friez_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Paisano's Restaurant",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Paisano_s_Restaurant_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Pizza Romano",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Pizza_Romano_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Pizza Twist",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Pizza_Twist_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Rockin Ribs",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Rockin_Ribs_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Sichuan Palace",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Sichuan_Palace_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Teachana",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Teachana_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Tivoli's",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Tivoli_s_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Top Chef Sushi",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Top_Chef_Sushi_Pittsburgh_PA.zip"
+ },
+ {
+  "name": "Wilson's Nite Out",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Wilson_s_Nite_Out_Pittsburgh_PA.zip"
+ }
+]

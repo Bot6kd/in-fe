@@ -1,0 +1,121 @@
+[
+ {
+  "name": "Buxx Teriyaki",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "cinematic",
+  "file": "Buxx_Teriyaki_Seattle_WA.zip"
+ },
+ {
+  "name": "Cheeky Cafe",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "editorial",
+  "file": "Cheeky_Cafe_Seattle_WA.zip"
+ },
+ {
+  "name": "High Tide Restaurant",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "bold",
+  "file": "High_Tide_Restaurant_Seattle_WA.zip"
+ },
+ {
+  "name": "Kirei Poke",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "refined",
+  "file": "Kirei_Poke_Seattle_WA.zip"
+ },
+ {
+  "name": "Little Pat's Place",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "cinematic",
+  "file": "Little_Pat_s_Place_Seattle_WA.zip"
+ },
+ {
+  "name": "Lucky Chinese Resta",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "editorial",
+  "file": "Lucky_Chinese_Resta_Seattle_WA.zip"
+ },
+ {
+  "name": "Mekong Village",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "bold",
+  "file": "Mekong_Village_Seattle_WA.zip"
+ },
+ {
+  "name": "Nasai Teriyaki",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "refined",
+  "file": "Nasai_Teriyaki_Seattle_WA.zip"
+ },
+ {
+  "name": "Oak Tree Teriyaki",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "cinematic",
+  "file": "Oak_Tree_Teriyaki_Seattle_WA.zip"
+ },
+ {
+  "name": "Okinawa Teriyaki",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "editorial",
+  "file": "Okinawa_Teriyaki_Seattle_WA.zip"
+ },
+ {
+  "name": "Rainier Teriyaki",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "bold",
+  "file": "Rainier_Teriyaki_Seattle_WA.zip"
+ },
+ {
+  "name": "Red Door",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "refined",
+  "file": "Red_Door_Seattle_WA.zip"
+ },
+ {
+  "name": "Teriyaki First",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "cinematic",
+  "file": "Teriyaki_First_Seattle_WA.zip"
+ },
+ {
+  "name": "Time 4 Pho",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "editorial",
+  "file": "Time_4_Pho_Seattle_WA.zip"
+ },
+ {
+  "name": "Village Sushi",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "bold",
+  "file": "Village_Sushi_Seattle_WA.zip"
+ },
+ {
+  "name": "Vintage Washington",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "refined",
+  "file": "Vintage_Washington_Seattle_WA.zip"
+ },
+ {
+  "name": "Woks Teriyaki",
+  "city": "Seattle",
+  "state": "WA",
+  "rotation": "cinematic",
+  "file": "Woks_Teriyaki_Seattle_WA.zip"
+ }
+]

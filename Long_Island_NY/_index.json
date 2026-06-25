@@ -1,0 +1,212 @@
+[
+ {
+  "name": "500 GRADOS MEXIC",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "500_GRADOS_MEXIC_Hempstead_NY.zip"
+ },
+ {
+  "name": "Antojitos El Pueblo C",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Antojitos_El_Pueblo_C_Hempstead_NY.zip"
+ },
+ {
+  "name": "Boquitas Bar & Resta",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "Boquitas_Bar_Resta_Hempstead_NY.zip"
+ },
+ {
+  "name": "Camone\u00f1o Deli",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "Camone_o_Deli_Hempstead_NY.zip"
+ },
+ {
+  "name": "China Garden",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "China_Garden_Hempstead_NY.zip"
+ },
+ {
+  "name": "Corinto's Deli",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Corinto_s_Deli_Hempstead_NY.zip"
+ },
+ {
+  "name": "Deli La Cari\u00f1osa",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "Deli_La_Cari_osa_Hempstead_NY.zip"
+ },
+ {
+  "name": "El Dorado Restaurant",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "El_Dorado_Restaurant_Hempstead_NY.zip"
+ },
+ {
+  "name": "El Nopal Restaurant",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "El_Nopal_Restaurant_Hempstead_NY.zip"
+ },
+ {
+  "name": "El Nuevo Poloros Re",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "El_Nuevo_Poloros_Re_Hempstead_NY.zip"
+ },
+ {
+  "name": "FAMY DELI RESTAU",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "FAMY_DELI_RESTAU_Hempstead_NY.zip"
+ },
+ {
+  "name": "Fuentes Cafe",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "Fuentes_Cafe_Hempstead_NY.zip"
+ },
+ {
+  "name": "Genial Bakery LLC",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Genial_Bakery_LLC_Hempstead_NY.zip"
+ },
+ {
+  "name": "Guatemala Restaurant",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Guatemala_Restaurant_Hempstead_NY.zip"
+ },
+ {
+  "name": "Hilton's Deli & Bagel",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "Hilton_s_Deli_Bagel_Hempstead_NY.zip"
+ },
+ {
+  "name": "KC Pizzeria",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "KC_Pizzeria_Hempstead_NY.zip"
+ },
+ {
+  "name": "La Costa Catracha R",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "La_Costa_Catracha_R_Hempstead_NY.zip"
+ },
+ {
+  "name": "La Fonda Deli N Fran",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "La_Fonda_Deli_N_Fran_Hempstead_NY.zip"
+ },
+ {
+  "name": "La Union Oyster & Cl",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "La_Union_Oyster_Cl_Hempstead_NY.zip"
+ },
+ {
+  "name": "Marbel Food Market",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "Marbel_Food_Market_Hempstead_NY.zip"
+ },
+ {
+  "name": "Memories Lounge Re",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Memories_Lounge_Re_Hempstead_NY.zip"
+ },
+ {
+  "name": "New York Deli Y Pup",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "New_York_Deli_Y_Pup_Hempstead_NY.zip"
+ },
+ {
+  "name": "Olivos Restaurant",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "Olivos_Restaurant_Hempstead_NY.zip"
+ },
+ {
+  "name": "Peruvian Restaurant",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "Peruvian_Restaurant_Hempstead_NY.zip"
+ },
+ {
+  "name": "Polo Pizza & Deli",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Polo_Pizza_Deli_Hempstead_NY.zip"
+ },
+ {
+  "name": "Restaurant",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Restaurant_Hempstead_NY.zip"
+ },
+ {
+  "name": "restaurant test 1",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "restaurant_test_1_Hempstead_NY.zip"
+ },
+ {
+  "name": "RICH VIBEZ",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "RICH_VIBEZ_Hempstead_NY.zip"
+ },
+ {
+  "name": "Ruby Bakery And Piz",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Ruby_Bakery_And_Piz_Hempstead_NY.zip"
+ },
+ {
+  "name": "Stella's Cafe",
+  "city": "Hempstead",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Stella_s_Cafe_Hempstead_NY.zip"
+ }
+]

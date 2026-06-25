@@ -1,0 +1,198 @@
+[
+ {
+  "name": "15 Fox Place",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "file": "15_Fox_Place_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Asian Fusion Grill &",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "editorial",
+  "file": "Asian_Fusion_Grill_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Caribbean - Flava Au",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "bold",
+  "file": "Caribbean_Flava_Au_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Chapin Restaurant &",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "refined",
+  "file": "Chapin_Restaurant_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Curry leaf",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "file": "Curry_leaf_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Daily Grind Express",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "editorial",
+  "file": "Daily_Grind_Express_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Fancy Fried Chicken",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "bold",
+  "file": "Fancy_Fried_Chicken_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "FOODZ",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "refined",
+  "file": "FOODZ_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Green Deli & Pizza",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "file": "Green_Deli_Pizza_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Grill and Chill",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "editorial",
+  "file": "Grill_and_Chill_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Happy Wok",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "bold",
+  "file": "Happy_Wok_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Kung fu pizza",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "refined",
+  "file": "Kung_fu_pizza_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "La Primicia Restaurant",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "file": "La_Primicia_Restaurant_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Larry & Joe's Pizzeria",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "editorial",
+  "file": "Larry_Joe_s_Pizzeria_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Lobster Garage",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "bold",
+  "file": "Lobster_Garage_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "M by MOKAF\u00c9",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "refined",
+  "file": "M_by_MOKAF_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Margaritas Restaurant",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "file": "Margaritas_Restaurant_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Margherita's Italian",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "editorial",
+  "file": "Margherita_s_Italian_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "MEXICAN HOME",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "bold",
+  "file": "MEXICAN_HOME_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Nick's",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "refined",
+  "file": "Nick_s_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Quisqueya Restaurant",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "file": "Quisqueya_Restaurant_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Sage Eats",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "editorial",
+  "file": "Sage_Eats_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Shang Gong Chu JB",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "bold",
+  "file": "Shang_Gong_Chu_JB_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Sloppy Joe's Pizzeria",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "refined",
+  "file": "Sloppy_Joe_s_Pizzeria_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "South of the Clouds",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "cinematic",
+  "file": "South_of_the_Clouds_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Sunny Hibachi",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "editorial",
+  "file": "Sunny_Hibachi_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "Super Hero Restaurant",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "bold",
+  "file": "Super_Hero_Restaurant_Jersey_City_NJ.zip"
+ },
+ {
+  "name": "The Heights Eatery",
+  "city": "Jersey City",
+  "state": "NJ",
+  "rotation": "refined",
+  "file": "The_Heights_Eatery_Jersey_City_NJ.zip"
+ }
+]

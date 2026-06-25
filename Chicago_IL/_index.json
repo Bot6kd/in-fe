@@ -1,0 +1,182 @@
+[
+ {
+  "name": "Il Vicinato Ristorante",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "file": "Il_Vicinato_Ristorante_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Mary's Taqueria",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Mary_s_Taqueria_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Taqueria El Heredero II",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Taqueria_El_Heredero_II_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "24 Hr Gyros & Subs",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "24_Hr_Gyros_Subs_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Burgundy Restaurant",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Burgundy_Restaurant_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Ferro's",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Ferro_s_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Gyro 47",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Gyro_47_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Hoagy House",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Hoagy_House_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "J & J Fish & Chicken",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "J_J_Fish_Chicken_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "JJ Fish & Chicken",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "JJ_Fish_Chicken_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Long Tung Chinese",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Long_Tung_Chinese_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Los Langostinos",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Los_Langostinos_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Pastina Eatery",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Pastina_Eatery_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Safari Somali Cuisine",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Safari_Somali_Cuisine_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Stefani's Tuscany Cafe",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Stefani_s_Tuscany_Cafe_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Stock & Ledger Kitchen",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Stock_Ledger_Kitchen_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Stout Barrel House & Galley",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Stout_Barrel_House_Galley_Chicago_IL.zip",
+  "gaps": ""
+ },
+ {
+  "name": "Taurus Steak & Hoagie",
+  "city": "Chicago",
+  "state": "IL",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Taurus_Steak_Hoagie_Chicago_IL.zip",
+  "gaps": ""
+ }
+]

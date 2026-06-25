@@ -1,0 +1,170 @@
+[
+ {
+  "name": "A & A Pizza",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "A_A_Pizza_Dallas_TX.zip"
+ },
+ {
+  "name": "Alex Tacos To Go",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Alex_Tacos_To_Go_Dallas_TX.zip"
+ },
+ {
+  "name": "Bellini's Italian Cafe",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Bellini_s_Italian_Cafe_Dallas_TX.zip"
+ },
+ {
+  "name": "Chino Chinatown",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Chino_Chinatown_Dallas_TX.zip"
+ },
+ {
+  "name": "Chubby's Restaurant",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Chubby_s_Restaurant_Dallas_TX.zip"
+ },
+ {
+  "name": "El Molcajetazo",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "El_Molcajetazo_Dallas_TX.zip"
+ },
+ {
+  "name": "Fedora Restaurant &",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Fedora_Restaurant_Dallas_TX.zip"
+ },
+ {
+  "name": "Good Luck Drive In",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Good_Luck_Drive_In_Dallas_TX.zip"
+ },
+ {
+  "name": "Hickory House Barb",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Hickory_House_Barb_Dallas_TX.zip"
+ },
+ {
+  "name": "Home Run Pizza",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Home_Run_Pizza_Dallas_TX.zip"
+ },
+ {
+  "name": "Italia Express",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Italia_Express_Dallas_TX.zip"
+ },
+ {
+  "name": "Java Lavender Coffe",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Java_Lavender_Coffe_Dallas_TX.zip"
+ },
+ {
+  "name": "Kilos Restaurant",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Kilos_Restaurant_Dallas_TX.zip"
+ },
+ {
+  "name": "Lots-A-Pasta",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Lots_A_Pasta_Dallas_TX.zip"
+ },
+ {
+  "name": "Luciano Family Pizze",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Luciano_Family_Pizze_Dallas_TX.zip"
+ },
+ {
+  "name": "Mama's Daughters'",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Mama_s_Daughters_Dallas_TX.zip"
+ },
+ {
+  "name": "Margarita's Mexican",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Margarita_s_Mexican_Dallas_TX.zip"
+ },
+ {
+  "name": "Mariscos La Marea E",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Mariscos_La_Marea_E_Dallas_TX.zip"
+ },
+ {
+  "name": "Mississippi Soulfood",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Mississippi_Soulfood_Dallas_TX.zip"
+ },
+ {
+  "name": "Pizza Lounge",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Pizza_Lounge_Dallas_TX.zip"
+ },
+ {
+  "name": "Pizza Y Tacos El Ran",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "cinematic",
+  "file": "Pizza_Y_Tacos_El_Ran_Dallas_TX.zip"
+ },
+ {
+  "name": "Rayo's Taqueria",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "editorial",
+  "file": "Rayo_s_Taqueria_Dallas_TX.zip"
+ },
+ {
+  "name": "Tacos Y Mas",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "bold",
+  "file": "Tacos_Y_Mas_Dallas_TX.zip"
+ },
+ {
+  "name": "Trinity Groves Kitche",
+  "city": "Dallas",
+  "state": "TX",
+  "rotation": "refined",
+  "file": "Trinity_Groves_Kitche_Dallas_TX.zip"
+ }
+]

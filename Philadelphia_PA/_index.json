@@ -1,0 +1,205 @@
+[
+ {
+  "name": "1 Stop Deli & Grocery",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "1_Stop_Deli_Grocery_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Alex's Kitchen",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Alex_s_Kitchen_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Baguette X Phorria",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Baguette_X_Phorria_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Big Ass Slices Bar &",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Big_Ass_Slices_Bar_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Broadway Pizza II",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Broadway_Pizza_II_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Cadence Restaurant",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Cadence_Restaurant_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Cucina Maria South",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Cucina_Maria_South_Philadelphia_PA.zip"
+ },
+ {
+  "name": "EGG'S ALE",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "EGG_S_ALE_Philadelphia_PA.zip"
+ },
+ {
+  "name": "El Molino Tortilleria &",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "El_Molino_Tortilleria_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Frank's Spaghetti Ho",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Frank_s_Spaghetti_Ho_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Green Pon Jamaican",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Green_Pon_Jamaican_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Kendrick's Best Wraps",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Kendrick_s_Best_Wraps_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Kingstone Restauran",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Kingstone_Restauran_Philadelphia_PA.zip"
+ },
+ {
+  "name": "L'Angolo Ristorante",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "L_Angolo_Ristorante_Philadelphia_PA.zip"
+ },
+ {
+  "name": "La Trompeta Cafe re",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "La_Trompeta_Cafe_re_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Le Viet",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Le_Viet_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Little Delicious",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Little_Delicious_Philadelphia_PA.zip"
+ },
+ {
+  "name": "M Kee",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "M_Kee_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Macho fritura",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Macho_fritura_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Mary's Lunch",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Mary_s_Lunch_Philadelphia_PA.zip"
+ },
+ {
+  "name": "New Wong House",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "New_Wong_House_Philadelphia_PA.zip"
+ },
+ {
+  "name": "New York Pizza",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "New_York_Pizza_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Ny Deli & Grill",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Ny_Deli_Grill_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Old City Pizza",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Old_City_Pizza_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Piattino Oven Fired P",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Piattino_Oven_Fired_P_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Silk Way",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "editorial",
+  "file": "Silk_Way_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Stadium Pizza & Grill",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "bold",
+  "file": "Stadium_Pizza_Grill_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Triple Joy",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "refined",
+  "file": "Triple_Joy_Philadelphia_PA.zip"
+ },
+ {
+  "name": "Zaccone's Restaurant",
+  "city": "Philadelphia",
+  "state": "PA",
+  "rotation": "cinematic",
+  "file": "Zaccone_s_Restaurant_Philadelphia_PA.zip"
+ }
+]

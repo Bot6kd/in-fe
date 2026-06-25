@@ -1,0 +1,149 @@
+[
+ {
+  "name": "Benito One",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Benito_One_New_York_NY.zip"
+ },
+ {
+  "name": "Call Me Pasta!",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Call_Me_Pasta_New_York_NY.zip"
+ },
+ {
+  "name": "Famous Famiglia Piz",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "Famous_Famiglia_Piz_New_York_NY.zip"
+ },
+ {
+  "name": "Gallo Nero",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "Gallo_Nero_New_York_NY.zip"
+ },
+ {
+  "name": "Gila's Nossh",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Gila_s_Nossh_New_York_NY.zip"
+ },
+ {
+  "name": "Girello",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Girello_New_York_NY.zip"
+ },
+ {
+  "name": "Harley's Smokeshac",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "Harley_s_Smokeshac_New_York_NY.zip"
+ },
+ {
+  "name": "Island Rolls N Bowls",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "Island_Rolls_N_Bowls_New_York_NY.zip"
+ },
+ {
+  "name": "Little Italy Pizza",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Little_Italy_Pizza_New_York_NY.zip"
+ },
+ {
+  "name": "North Dumplings",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "North_Dumplings_New_York_NY.zip"
+ },
+ {
+  "name": "Ocean Restaurant",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "Ocean_Restaurant_New_York_NY.zip"
+ },
+ {
+  "name": "Oi bozu",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "Oi_bozu_New_York_NY.zip"
+ },
+ {
+  "name": "Quality Eats",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Quality_Eats_New_York_NY.zip"
+ },
+ {
+  "name": "Tacos Grand Central",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Tacos_Grand_Central_New_York_NY.zip"
+ },
+ {
+  "name": "The Hideaway Seaport",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "The_Hideaway_Seaport_New_York_NY.zip"
+ },
+ {
+  "name": "The National Bar & D",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "The_National_Bar_D_New_York_NY.zip"
+ },
+ {
+  "name": "the Press Lounge",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "the_Press_Lounge_New_York_NY.zip"
+ },
+ {
+  "name": "Uncle Vinny's Pizza",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "editorial",
+  "file": "Uncle_Vinny_s_Pizza_New_York_NY.zip"
+ },
+ {
+  "name": "Yummy Stick",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "bold",
+  "file": "Yummy_Stick_New_York_NY.zip"
+ },
+ {
+  "name": "Zafis Luncheonette",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "refined",
+  "file": "Zafis_Luncheonette_New_York_NY.zip"
+ },
+ {
+  "name": "Ziyan Chicken",
+  "city": "New York",
+  "state": "NY",
+  "rotation": "cinematic",
+  "file": "Ziyan_Chicken_New_York_NY.zip"
+ }
+]

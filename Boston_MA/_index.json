@@ -1,0 +1,280 @@
+[
+ {
+  "name": "Galleria Umberto",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 3,
+  "file": "Galleria_Umberto_Boston_MA.zip"
+ },
+ {
+  "name": "Ali's Roti Restaurant",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "file": "Ali_s_Roti_Restaurant_Boston_MA.zip"
+ },
+ {
+  "name": "Cunard Tavern",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "file": "Cunard_Tavern_Boston_MA.zip"
+ },
+ {
+  "name": "Piccolo Nido",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "file": "Piccolo_Nido_Boston_MA.zip"
+ },
+ {
+  "name": "Steve's Greek Cuisine",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Steve_s_Greek_Cuisine_Boston_MA.zip"
+ },
+ {
+  "name": "La Famiglia Spagnuolo's",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "file": "La_Famiglia_Spagnuolo_s_Boston_MA.zip"
+ },
+ {
+  "name": "Red Line Pizza & Grill",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Red_Line_Pizza_Grill_Boston_MA.zip"
+ },
+ {
+  "name": "Tony's Pizzeria",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Tony_s_Pizzeria_Boston_MA.zip"
+ },
+ {
+  "name": "Salsa's Mexican Grill",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Salsa_s_Mexican_Grill_Boston_MA.zip"
+ },
+ {
+  "name": "Dragon Bowl",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Dragon_Bowl_Boston_MA.zip"
+ },
+ {
+  "name": "Master Wok",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Master_Wok_Boston_MA.zip"
+ },
+ {
+  "name": "Cool Shade",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 2,
+  "file": "Cool_Shade_Boston_MA.zip"
+ },
+ {
+  "name": "Kwench Juice Cafe",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Kwench_Juice_Cafe_Boston_MA.zip"
+ },
+ {
+  "name": "Superstar's Cuisine",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Superstar_s_Cuisine_Boston_MA.zip"
+ },
+ {
+  "name": "Topacio",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Topacio_Boston_MA.zip"
+ },
+ {
+  "name": "Levi's Restaurant & Lounge",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Levi_s_Restaurant_Lounge_Boston_MA.zip"
+ },
+ {
+  "name": "Mario's Subs & Salads",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 0,
+  "file": "Mario_s_Subs_Salads_Boston_MA.zip"
+ },
+ {
+  "name": "McGoo's Pizza",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "McGoo_s_Pizza_Boston_MA.zip"
+ },
+ {
+  "name": "Noodle BOS",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "bold",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Noodle_BOS_Boston_MA.zip"
+ },
+ {
+  "name": "North East of the Border",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "refined",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "North_East_of_the_Border_Boston_MA.zip"
+ },
+ {
+  "name": "Yummee",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "cinematic",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Yummee_Boston_MA.zip"
+ },
+ {
+  "name": "Crab du Jour Xpress",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "editorial",
+  "status": "ENRICHED \u2713",
+  "reviews": 1,
+  "file": "Crab_du_Jour_Xpress_Boston_MA.zip"
+ },
+ {
+  "name": "Chilli Duck",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Chilli_Duck_Boston_MA.zip",
+  "gaps": "permanently closed"
+ },
+ {
+  "name": "Alta Strada",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Alta_Strada_Boston_MA.zip",
+  "gaps": "airport chain \u2014 has its own site"
+ },
+ {
+  "name": "Cafe 33",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Cafe_33_Boston_MA.zip",
+  "gaps": "now operating under a different name"
+ },
+ {
+  "name": "Pho Pasteur",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Pho_Pasteur_Boston_MA.zip",
+  "gaps": "location not confirmed open"
+ },
+ {
+  "name": "Star Island",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Star_Island_Boston_MA.zip",
+  "gaps": "listing not confirmed"
+ },
+ {
+  "name": "Vineyard Grille",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Vineyard_Grille_Boston_MA.zip",
+  "gaps": "airport hotel outlet"
+ },
+ {
+  "name": "Italian Pizza Express",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Italian_Pizza_Express_Boston_MA.zip",
+  "gaps": "insufficient public info"
+ },
+ {
+  "name": "Fusion Restaurant",
+  "city": "Boston",
+  "state": "MA",
+  "rotation": "\u2014",
+  "status": "CLOSED/SKIP",
+  "reviews": 0,
+  "file": "Fusion_Restaurant_Boston_MA.zip",
+  "gaps": "listing not confirmed"
+ }
+]
